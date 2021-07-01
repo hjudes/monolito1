@@ -75,10 +75,10 @@ export default function Orders({ history }) {
           <Table className={classes.table}>
             <TableHead>
               <TableRow>
-                <TableCell>Order Id</TableCell>
-                <TableCell>Date</TableCell>
-                <TableCell>Total Items</TableCell>
-                <TableCell>Cost</TableCell>
+                <TableCell>Id</TableCell>
+                <TableCell>Fecha</TableCell>
+                <TableCell>Items Totales</TableCell>
+                <TableCell>Costo</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
