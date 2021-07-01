@@ -2,32 +2,32 @@
   "orders": [
     {
       "id": "ORD-000001",
-      "date": "7/01/2019",
-      "cost": 67.99,
+      "date": "01/07/2021",
+      "cost": 67990,
       "items": ["OLJCESPC7Z"]
     },
     {
       "id": "ORD-000002",
-      "date": "7/24/2019",
-      "cost": 124,
+      "date": "24/06/2021",
+      "cost": 124000,
       "items": ["1YMWWN1N4O"]
     },
     {
       "id": "ORD-000003",
-      "date": "8/03/2019",
-      "cost": 12.49,
+      "date": "08/06/2019",
+      "cost": 12490,
       "items": ["66VCHSJNUP"]
     },
     {
       "id": "ORD-000004",
-      "date": "8/14/2019",
-      "cost": 89.83,
+      "date": "14/06/2019",
+      "cost": 89000,
       "items": ["0PUK6V6EV0", "LS4PSXUNUM"]
     },
     {
       "id": "ORD-000005",
-      "date": "8/29/2019",
-      "cost": 12.30,
+      "date": "29/06/2019",
+      "cost": 1230000,
       "items": ["6E92ZMYYFZ"]
     }
   ]
