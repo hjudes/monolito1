@@ -107,7 +107,7 @@ export default function ClippedDrawer() {
               activeClassName="Mui-selected"
               to="/products"
             >
-              <ListItemText primary="Products" />
+              <ListItemText primary="Productos" />
             </ListItem>{" "}
             <ListItem
               component={NavLink}
@@ -115,7 +115,7 @@ export default function ClippedDrawer() {
               activeClassName="Mui-selected"
               to="/orders"
             >
-              <ListItemText primary="Orders" />
+              <ListItemText primary="Pedidos" />
             </ListItem>
           </List>
         </Drawer>
