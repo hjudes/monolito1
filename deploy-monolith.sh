@@ -28,6 +28,6 @@ kubectl create deployment monolith --image=gcr.io/${GOOGLE_CLOUD_PROJECT}/monoli
 kubectl expose deployment monolith --type=LoadBalancer --port 80 --target-port 8080 > /dev/null 2>&1
 printf "Completed.\n\n"
 
-printf "Please run the following command to find the IP address for the monolith service:  kubectl get service monolith\n\n"
+printf "Ejecutar el siguiente comando para obtener la dirección IP del monolito:  kubectl get service monolith\n\n"
 
-printf "Deployment Complete\n"
+printf "Despliegue completo\n"
